@@ -1,3 +1,16 @@
-# pharmacy-data-science-portfolio
-Myself Najam Ullah. I am currently doing PharmD from IUB and Data Science from Virtual Unversity of Pakistan.
-My Goal is to master my data science skill in 6 months my doing daily tasks.
+# Pharmacy Data Science Portfolio
+
+## 👤 Name
+Najam Ullah
+
+## 🎯 Goal
+Become a pharmacy data scientist and analyze real medical/store data.
+
+## 📅 6-Month Plan
+
+Month 1: Python + Pandas  
+Month 2: Visualization  
+Month 3: Statistics  
+Month 4: Machine Learning  
+Month 5: Healthcare Projects  
+Month 6: Portfolio polishing
