@@ -4,3 +4,7 @@
 - Set up GitHub repository
 - Created folder structure
 - Loaded first dataset using Pandas
+
+## Day 2 — March 18, 2026
+Learned: iloc, loc, conditional selection, column assignment
+Confused by: [write honestly what confused you]
