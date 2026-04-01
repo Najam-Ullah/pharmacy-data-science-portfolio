@@ -6,10 +6,15 @@
 - Loaded first dataset using Pandas
 
 ## Day 2 — March 18, 2026
-Learned: iloc, loc, conditional selection, column assignment
-<<<<<<< HEAD
 Learned: iloc, loc, conditional selection, column assignment Confused by: Kaggle exercise to make ratio of point to price for best wine .
 
-=======
-Confused by: Kaggle exercise to make ratio of point to price for best wine .
->>>>>>> f4a1538f226770063f3d74d8263d415cc9f170ef
+## Day 3 — March 19, 2026
+Learned: groupby, agg, sort_values, reset_index
+
+## Day 4 — March 20, 2026
+Learned: dtypes, astype, fillna, dropna, isnull
+Confused by : Changing dtypes
+
+## Day 5 — March 21, 2026
+Learned: rename, concat, merge, join
+Confused by : joining two columns by using concats
