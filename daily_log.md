@@ -18,3 +18,8 @@ Confused by : Changing dtypes
 ## Day 5 — March 21, 2026
 Learned: rename, concat, merge, join
 Confused by : joining two columns by using concats
+
+## Day 9 — March 25, 2026
+Learned: histplot, kdeplot, ecdfplot, boxplot, violinplot, 
+         stripplot, barplot, countplot, pairplot, heatmap, mask
+Confused by: Heatmaps and correlations by using numpy for lower triangles.
